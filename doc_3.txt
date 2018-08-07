@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-george are struguri
-=======
 ion are pere necoapte, dar dulci
->>>>>>> refs/remotes/origin/master
